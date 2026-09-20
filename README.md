@@ -18,3 +18,7 @@ Then at some point, as the structure grew bigger, I suddenly felt the LLMs becom
 However, context injection turned out to be just another Gene-seed made out of rules anyway, so I scrapped it and tried a redesign. But for this redesign too—like a complete fucking idiot, without realizing how ridiculously huge the structure was getting—I got all excited and went full RimWorld mode. In the end, I had to wipe all of that out, too.
 
 What I realized at that moment was that a simple structure—a structure that neither humans nor LLMs have to think to use—is the absolute best. The key point is that this took fucking forever to figure out. By this point, it had swallowed up nearly 140 PRs.
+
+## Notes
+
+- [I tried using my best AI session as a Warhammer 40K gene-seed. It didn't work.](docs/gene-seed-experiment.md)
