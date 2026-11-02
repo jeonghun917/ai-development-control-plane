@@ -22,3 +22,4 @@ What I realized at that moment was that a simple structure—a structure that ne
 ## Notes
 
 - [I tried using my best AI session as a Warhammer 40K gene-seed. It didn't work.](docs/gene-seed-experiment.md)
+- [I ripped one organ out of the control plane and made it its own thing: readfirst](docs/readfirst.md)
